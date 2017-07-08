@@ -5,12 +5,12 @@ html {
 }
 h1 {
 	font-size: 70px;
-	font-color: white;
 	font-weight: bold;
 }
 h2 {
 	font-size: 32px;
 	font-weight: bold;
+	font-color: white;
 }
 h3	{
 	font-size: 23px;
@@ -18,4 +18,19 @@ h3	{
 }
 .hero {
 	background-image: url(../images/the-flatiron-building.png);
+}
+.nav {
+	font-size: 18px;
+	font-color: white;
+	text-decoration: underline;
+}
+.hero h2 {
+	font-size: 23px;
+	font-color: white;
+}
+.footer {
+	text-align: left;
+	font-size: 11px;
+	font-color: white;
+	background-color: dimgray;	
 }
