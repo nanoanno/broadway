@@ -6,11 +6,11 @@ html {
 h1 {
 	font-size: 70px;
 	font-weight: bold;
+	color: white;
 }
 h2 {
 	font-size: 32px;
 	font-weight: bold;
-	font-color: white;
 }
 h3	{
 	font-size: 23px;
@@ -21,16 +21,16 @@ h3	{
 }
 .nav {
 	font-size: 18px;
-	font-color: white;
+	color: white;
 	text-decoration: underline;
 }
 .hero h2 {
 	font-size: 23px;
-	font-color: white;
+	color: white;
 }
 .footer {
 	text-align: left;
 	font-size: 11px;
-	font-color: white;
+	color: white;
 	background-color: dimgray;	
 }
